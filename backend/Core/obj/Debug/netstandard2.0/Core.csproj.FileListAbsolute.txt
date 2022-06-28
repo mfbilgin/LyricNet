@@ -1,0 +1,10 @@
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\bin\Debug\netstandard2.0\Core.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\obj\Debug\netstandard2.0\Core.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Core\obj\Debug\netstandard2.0\Core.pdb

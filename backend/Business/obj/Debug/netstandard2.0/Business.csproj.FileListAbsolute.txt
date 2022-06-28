@@ -1,0 +1,17 @@
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\bin\Debug\netstandard2.0\Business.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\obj\Debug\netstandard2.0\Business.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\bin\Debug\netstandard2.0\Core.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\bin\Debug\netstandard2.0\Entites.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\bin\Debug\netstandard2.0\Entites.pdb
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete

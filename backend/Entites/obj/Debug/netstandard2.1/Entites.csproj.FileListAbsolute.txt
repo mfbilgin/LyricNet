@@ -1,0 +1,13 @@
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\obj\Debug\netstandard2.1\Entites.csproj.AssemblyReference.cache
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\obj\Debug\netstandard2.1\Entites.GeneratedMSBuildEditorConfig.editorconfig
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\obj\Debug\netstandard2.1\Entites.AssemblyInfoInputs.cache
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\obj\Debug\netstandard2.1\Entites.AssemblyInfo.cs
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\obj\Debug\netstandard2.1\Entites.csproj.CoreCompileInputs.cache
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\bin\Debug\netstandard2.1\Entites.deps.json
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\bin\Debug\netstandard2.1\Entites.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\bin\Debug\netstandard2.1\Entites.pdb
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\bin\Debug\netstandard2.1\Core.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\bin\Debug\netstandard2.1\Core.pdb
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\obj\Debug\netstandard2.1\Entites.csproj.CopyComplete
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\obj\Debug\netstandard2.1\Entites.dll
+D:\MFBILGIN\Projects\C#\LyricNet\backend\Entites\obj\Debug\netstandard2.1\Entites.pdb
